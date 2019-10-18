@@ -1,0 +1,11 @@
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/bin/Debug/netcoreapp2.2/CampoMinado.deps.json
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/bin/Debug/netcoreapp2.2/CampoMinado.runtimeconfig.json
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/bin/Debug/netcoreapp2.2/CampoMinado.runtimeconfig.dev.json
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/bin/Debug/netcoreapp2.2/CampoMinado.dll
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/bin/Debug/netcoreapp2.2/CampoMinado.pdb
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/obj/Debug/netcoreapp2.2/CampoMinado.csprojAssemblyReference.cache
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/obj/Debug/netcoreapp2.2/CampoMinado.csproj.CoreCompileInputs.cache
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/obj/Debug/netcoreapp2.2/CampoMinado.AssemblyInfoInputs.cache
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/obj/Debug/netcoreapp2.2/CampoMinado.AssemblyInfo.cs
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/obj/Debug/netcoreapp2.2/CampoMinado.dll
+/home/breno/dev/vianna/Periodo1/FP/CampoMinado/obj/Debug/netcoreapp2.2/CampoMinado.pdb
